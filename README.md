@@ -7,5 +7,14 @@ Additionally, with temporary unavailability of (portions of) official data sourc
 
 ## Resources:
 
-- *New York Times* dataset: <https://github.com/nytimes/covid-19-data>
-- *New York Times* maps: <https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html>
+- *The New York Times*: (county-level data on cases and deaths)
+  - Data: <https://github.com/nytimes/covid-19-data>
+  - Maps: <https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html>
+- *The Atlantic* -- COVID Tracking Project: (no county-level data, but includes data about testing)
+  - Dataset: <https://covidtracking.com/data/download>
+  - Charts: <https://covidtracking.com/data/charts>
+  - Blog: <https://covidtracking.com/blog>
+- Johns Hopkins University
+  - Data: <https://github.com/CSSEGISandData/COVID-19>
+  - Maps: <https://coronavirus.jhu.edu/us-map>
+  
